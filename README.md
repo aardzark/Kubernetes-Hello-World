@@ -25,4 +25,4 @@
    - `kubectl apply -f hello-world-ingress.yaml`
 9. Get the public IP address of the EC2 instance:
    - `curl ifconfig.me`
-10. Visit the public IP address of the EC2 instance to access the application.
+10. Visit the public IP address of the EC2 instance to access the application
